@@ -1,4 +1,3 @@
-Nguyễn Tấn Hùng 
-Nguễn Trần Hòa
-Lê Văn Quý
-Vũ trung Nghĩa
+Nguyen Thanh Nhon  
+Nguyen Kim Phuoc
+Tran Van Thang
